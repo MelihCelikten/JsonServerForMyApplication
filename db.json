@@ -1,29 +1,5 @@
-[
 {
-	    "picture_id": 1,
-	    "picture_link": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/one.png",
-	    "text": "resim bir panpa"
-	},
-
-{
-	    "picture_id": 2,
-	    "picture_link": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/one.png",
-	    "text": "resim iki panpa"
-	},
-
-{
-	    "picture_id": 3,
-	    "picture_link": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/one.png",
-	    "text": "resim üç panpa"
-	},
-{
-	    "picture_id": 4,
-	    "picture_link": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/one.png",
-	    "text": "resim dört panpa"
-	},
-{
-	    "picture_id": 5,
-	    "picture_link": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/one.png",
-	    "text": "resim beş panpa"
-	}
-  ]
+    "user_name": "john123",
+    "email": "john@example.com",
+    "name": "John Doe"
+}
