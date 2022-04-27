@@ -2,15 +2,37 @@
   "posts": [
   
     {
-      "id": 1,
-      "title": "hello",
-      "text" : "merhaba dünya"
+     
+      "text_title": "başlık 1",
+      "text_main" : "açıklama 1",
+      "picture_url: "MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/one.png"
     },
       {
-      "id": 2,
-      "title": "hello2",
-      "text" : "merhaba dünya 2"
-    }
+      
+       "text_title": "başlık 2",
+      "text_main" : "açıklama 2",
+      "picture_url: "MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/two.png"
+    },
+    
+      {
+      "text_title": "başlık 3",
+      "text_main" : "açıklama 3",
+      "picture_url: "MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/three.png"
+    },
+    
+      {
+     
+      "text_title": "başlık 4",
+      "text_main" : "açıklama 4",
+      "picture_url: "MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/four.png"
+    },
+    
+      {
+      "text_title": "başlık 5",
+      "text_main" : "açıklama 5",
+      "picture_url: "MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/five.png"
+    },
+    
  
   
   ],
