@@ -5,32 +5,32 @@
      
       "text_title": "başlık 1",
       "text_main" : "açıklama 1",
-      "picture_url: "MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/one.png"
+      "picture_url: "https://github.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/five.png"
     },
       {
       
        "text_title": "başlık 2",
       "text_main" : "açıklama 2",
-      "picture_url: "MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/two.png"
+      "picture_url : "https://i.ibb.co/qdzJ8yN/kanada.png"
     },
     
       {
       "text_title": "başlık 3",
       "text_main" : "açıklama 3",
-      "picture_url: "MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/three.png"
+      "picture_url : ""
     },
     
       {
      
       "text_title": "başlık 4",
       "text_main" : "açıklama 4",
-      "picture_url: "MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/four.png"
+      "picture_url: ""
     },
     
       {
       "text_title": "başlık 5",
       "text_main" : "açıklama 5",
-      "picture_url: "MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/five.png"
+      "picture_url: ""
     },
     
  
