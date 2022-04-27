@@ -1,6 +1,20 @@
-[
-  {"katilimciUlkeAdi":"Kanada",
-   "katilimciBayragi":"https://i.ibb.co/qdzJ8yN/kanada.png",
-   "katilimciSayisi":250,
-   "id":"1"}
-]
+{
+  "posts": [
+  
+    {
+      "id": 1,
+      "title": "hello",
+      "text" : "merhaba dünya"
+    },
+      {
+      "id": 2,
+      "title": "hello2",
+      "text" : "merhaba dünya 2"
+    }
+ 
+  
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
