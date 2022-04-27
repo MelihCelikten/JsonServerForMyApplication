@@ -5,13 +5,13 @@
      
       "text_title": "başlık 1",
       "text_main" : "açıklama 1",
-      "picture_url: "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/five.png"
+      "picture_url: ""
     },
       {
       
        "text_title": "başlık 2",
       "text_main" : "açıklama 2",
-      "picture_url : "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/five.png"
+      "picture_url : ""
     },
     
       {
@@ -24,13 +24,13 @@
      
       "text_title": "başlık 4",
       "text_main" : "açıklama 4",
-      "picture_url: "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/five.png"
+      "picture_url: ""
     },
     
       {
       "text_title": "başlık 5",
       "text_main" : "açıklama 5",
-      "picture_url: "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/five.png"
+      "picture_url: ""
     },
     
  
