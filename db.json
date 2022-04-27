@@ -5,33 +5,33 @@
      
       "text_title": "başlık 1",
       "text_main" : "açıklama 1",
-      "picture_url: ""
+      "picture_url: "deneme"
     },
       {
       
        "text_title": "başlık 2",
-      "text_main" : "açıklama 2",
-      "picture_url : ""
+      "text_main" : "açıklama 2"
+     
     },
     
       {
       "text_title": "başlık 3",
-      "text_main" : "açıklama 3",
-      "picture_url : "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/five.png"
+      "text_main" : "açıklama 3"
+     
     },
     
       {
      
       "text_title": "başlık 4",
-      "text_main" : "açıklama 4",
-      "picture_url: ""
+      "text_main" : "açıklama 4"
+    
     },
     
       {
       "text_title": "başlık 5",
-      "text_main" : "açıklama 5",
-      "picture_url: ""
-    },
+      "text_main" : "açıklama 5"
+     
+    }
     
  
   
