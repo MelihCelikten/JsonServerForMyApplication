@@ -1,11 +1,6 @@
-{
-  "posts": [
-  {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {"katilimciUlkeAdi":"Kanada",
+   "katilimciBayragi":"https://i.ibb.co/qdzJ8yN/kanada.png",
+   "katilimciSayisi":250,
+   "id":"1"}
+]
