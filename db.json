@@ -1,5 +1,11 @@
 {
-    "user_name": "john123",
-    "email": "john@example.com",
-    "name": "John Doe"
+  "posts": [
+  {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
