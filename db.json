@@ -1,42 +1,38 @@
-{
-  "posts": [
-  
-    {
-     
-      "text_title": "başlık 1",
-      "text_main" : "açıklama 1"
+[
+  {
     
-    },
-      {
-      
-       "text_title": "başlık 2",
-      "text_main" : "açıklama 2"
-     
-    },
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+   
+    "id": 2,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "url": "https://via.placeholder.com/600/771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
     
-      {
-      "text_title": "başlık 3",
-      "text_main" : "açıklama 3"
-     
-    },
+    "id": 3,
+    "title": "officia porro iure quia iusto qui ipsa ut modi",
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
     
-      {
-     
-      "text_title": "başlık 4",
-      "text_main" : "açıklama 4"
-    
-    },
-    
-      {
-      "text_title": "başlık 5",
-      "text_main" : "açıklama 5"
-     
-    }
-    
- 
-  
-  ],
-  "profile": {
-    "name": "typicode"
+    "id": 4,
+    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+    "url": "https://via.placeholder.com/600/d32776",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+  },
+  {
+   
+    "id": 5,
+    "title": "natus nisi omnis corporis facere molestiae rerum in",
+    "url": "https://via.placeholder.com/600/f66b97",
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
   }
-}
+
+]
