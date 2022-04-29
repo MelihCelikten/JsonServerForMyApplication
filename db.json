@@ -1,25 +1,42 @@
 {
-  "employees": [
+  "promotion": [
     {
       "id": 1,
-      "first_name": "Sebastian",
-      "last_name": "Eschweiler",
-      "email": "sebastian@codingthesmartway.com",
-      "link": "https://github.com/MelihCelikten/JsonServerForMyApplication/blob/master/app/src/main/res/drawable/five.png?raw=true"
+      "title": "başlık - 1 ",
+      "subject": "konu - 1",
+      "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/one.png"
     },
     {
       "id": 2,
-      "first_name": "Steve",
-      "last_name": "Palmer",
-      "email": "steve@codingthesmartway.com",
-      "link": "https://github.com/MelihCelikten/JsonServerForMyApplication/blob/master/app/src/main/res/drawable/five.png?raw=true"
+      "title": "başlık - 2 ",
+      "subject": "konu - 2",
+      "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/two.png"
     },
     {
       "id": 3,
-      "first_name": "Ann",
-      "last_name": "Smith",
-      "email": "ann@codingthesmartway.com",
-      "link": "https://github.com/MelihCelikten/JsonServerForMyApplication/blob/master/app/src/main/res/drawable/five.png?raw=true"
+      "title": "başlık - 3 ",
+      "subject": "konu - 3",
+      "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/three.png"
+    },
+    
+     {
+      "id": 4,
+      "title": "başlık - 4 ",
+      "subject": "konu - 4",
+      "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/four.png"
+    },
+    
+     {
+      "id": 5,
+      "title": "başlık - 5 ",
+      "subject": "konu - 5",
+      "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/five.png"
     }
+ 
+  
+  
   ]
+  
+  
+  
 }
