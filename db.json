@@ -2,34 +2,34 @@
   "promotion": [
     {
       "id": 1,
-      "title": "başlık - 1 ",
-      "subject": "konu - 1",
+      "title": "En Sevdiğiniz Lezzeti Seçin!",
+      "subject": "Birbirinden farklı ve özenle hazırlanmış kahvelerimizden birini alın.",
       "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/one.png"
     },
     {
       "id": 2,
-      "title": "başlık - 2 ",
-      "subject": "konu - 2",
+      "title": "Size Özel QR Kodunuzu Oluşturun!",
+      "subject": "Tek kullanımlık özel qr kodunuzu hızlı bir şekilde oluşturun.",
       "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/two.png"
     },
     {
       "id": 3,
-      "title": "başlık - 3 ",
-      "subject": "konu - 3",
+      "title": "Kodunuzu Görevliye Gösterin!",
+      "subject": "Oluşturduğunuz QR kodunuzu görevli arkadaşımıza gösterin.",
       "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/three.png"
     },
     
      {
       "id": 4,
-      "title": "başlık - 4 ",
-      "subject": "konu - 4",
+      "title": "Siparişinizi Temassız Olarak Tamamlayın!",
+      "subject": "Kodunuza bağlı olarak seçtiğiniz sipariş tutarı, güvenli şekilde otomatik olarak cüzdanınıza yansısın.",
       "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/four.png"
     },
     
      {
       "id": 5,
-      "title": "başlık - 5 ",
-      "subject": "konu - 5",
+      "title": "Kahvenizi İçerken Puanlar Kazanmaya Devam Edin!",
+      "subject": "Siz kahvenizi içerken özel fırsatlar ile puanlar ve hediyeler kazanın!",
       "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/five.png"
     }
  
