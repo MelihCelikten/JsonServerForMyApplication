@@ -33,9 +33,16 @@
       "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/five.png"
     }
  
+ 
+  ],
   
-  
-  ]
+   "stories": {
+     "id": 1,
+    "name": "melihcelikten",
+     "title": "Hikaye Başlığı",
+     "subject" : "Hikaye Konusu",
+     "url" : "hikaye linki"
+  }
   
   
   
