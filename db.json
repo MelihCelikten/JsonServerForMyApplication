@@ -37,7 +37,7 @@
   ],
   
  
-  "deneme": [
+  "stories": [
     {
       "id": 1,
       "title": "En Sevdiğiniz Lezzeti Seçin!",
@@ -46,7 +46,7 @@
     }
    ],
   
-   "stories": {
+   "profile": {
      "id": 1,
     "name": "melihcelikten",
      "title": "Hikaye Başlığı",
