@@ -36,6 +36,16 @@
  
   ],
   
+ 
+  "deneme": [
+    {
+      "id": 1,
+      "title": "En Sevdiğiniz Lezzeti Seçin!",
+      "subject": "Birbirinden farklı ve özenle hazırlanmış kahvelerimizden birini alın.",
+      "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/one.png"
+    }
+   ],
+  
    "stories": {
      "id": 1,
     "name": "melihcelikten",
