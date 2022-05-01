@@ -1,11 +1,59 @@
 {
-  "posts": [
+  "promotion": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "En Sevdiğiniz Lezzeti Seçin!",
+      "subject": "Birbirinden farklı ve özenle hazırlanmış kahvelerimizden birini alın.",
+      "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/one.png"
+    },
+    {
+      "id": 2,
+      "title": "Size Özel QR Kodunuzu Oluşturun!",
+      "subject": "Tek kullanımlık özel qr kodunuzu hızlı bir şekilde oluşturun.",
+      "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/two.png"
+    },
+    {
+      "id": 3,
+      "title": "Kodunuzu Görevliye Gösterin!",
+      "subject": "Oluşturduğunuz QR kodunuzu görevli arkadaşımıza gösterin.",
+      "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/three.png"
+    },
+    
+     {
+      "id": 4,
+      "title": "Siparişinizi Temassız Olarak Tamamlayın!",
+      "subject": "Kodunuza bağlı olarak seçtiğiniz sipariş tutarı, güvenli şekilde otomatik olarak cüzdanınıza yansısın.",
+      "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/four.png"
+    },
+    
+     {
+      "id": 5,
+      "title": "Kahvenizi İçerken Puanlar Kazanmaya Devam Edin!",
+      "subject": "Siz kahvenizi içerken özel fırsatlar ile puanlar ve hediyeler kazanın!",
+      "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/five.png"
     }
+ 
+ 
   ],
-  "profile": {
-    "name": "typicode"
+  
+ 
+  "stories": [
+    {
+      "id": 1,
+      "title": "En Sevdiğiniz Lezzeti Seçin!",
+      "subject": "Birbirinden farklı ve özenle hazırlanmış kahvelerimizden birini alın.",
+      "url": "https://raw.githubusercontent.com/MelihCelikten/JsonServerForMyApplication/master/app/src/main/res/drawable/one.png"
+    }
+   ],
+  
+   "profile": {
+     "id": 1,
+    "name": "melihcelikten",
+     "title": "Hikaye Başlığı",
+     "subject" : "Hikaye Konusu",
+     "url" : "hikaye linki"
   }
+  
+  
+  
 }
