@@ -46,12 +46,21 @@
     }
    ],
   
+   "videos": [
+    {
+      "id": 1,
+      "title": "basic video",
+      "subject": "",
+      "url": "https://www.veed.io/view/d4a0a1de-5e9b-4905-81e9-b7c6d41b4066"
+    }
+   ],
+  
    "profile": {
      "id": 1,
     "name": "melihcelikten",
      "title": "Hikaye Başlığı",
      "subject" : "Hikaye Konusu",
-     "url" : "hikaye linki"
+     "url" : ""
   }
   
   
